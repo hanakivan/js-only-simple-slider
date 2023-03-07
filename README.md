@@ -1,7 +1,7 @@
 ### js-only-simple-slider
 - vanilla JavaScript only image slider
 
--  Check out the 👉 [demo](demo.html)
+-  Check out the 👉 [demo](https://raw.githack.com/hanakivan/js-only-simple-slider/master/demo.html)
 
 
 ### License
